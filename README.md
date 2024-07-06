@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdhirajMishra
 - 👀 I’m a Tech Enthusiast
 - 🌱 I’m currently learning language of tech
-- 
+- I'm learning 
 
 <!---
 AdhirajMishra/AdhirajMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
