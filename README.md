@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdhirajMishra
-- 👀 I’m a Tech Enthusiast
+- 👀 I’m BTech 2nd year student 
 - 🌱 I’m currently learning language of tech
 - I'm learning 
 
