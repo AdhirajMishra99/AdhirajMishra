@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AdhirajMishra
+- 👋 Hi, I’m @AdhirajMishra99
 - 👀 I’m BTech 2nd year student 
 - 🌱 I’m currently learning language of tech
 - 🤞 Trying to gain the knowledge
