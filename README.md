@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhirajMishra99
 - 👀 I’m BTech CSE student 
-- 🌱 I’m currently learning language of tech
+- 🌱 I’m currently learning about tech
 - 🤞 Trying to gain the knowledge
 
 <!---
