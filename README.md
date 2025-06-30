@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdhirajMishra99
-- 👀 I’m BTech CSE (AIML) student 
+- 👀 I’m BTech CSE student 
 - 🌱 I’m currently learning language of tech
 - 🤞 Trying to gain the knowledge
 
