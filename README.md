@@ -4,8 +4,9 @@
 - 🤞 Trying to gain the knowledge
 <img src="https://komarev.com/ghpvc/?username=Adhiraj-Mishra-99&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="AdhirajMishra99" />
 ## 🌐 Socials:
-- [LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/https://www.linkedin.com/in/adhiraj-mishra-ab4b06302/) 
-- [X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@static_adhiraj) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiraj-mishra-ab4b06302/)
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/static_adhiraj)
+
 
 <!---
 AdhirajMishra/AdhirajMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
