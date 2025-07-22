@@ -2,6 +2,7 @@
 - 👀 I’m BTech CSE student 
 - 🌱 I’m currently learning about tech
 - 🤞 Trying to gain the knowledge
+<img src="https://komarev.com/ghpvc/?username=Adhiraj-Mishra-99&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="AdhirajMishra99" /> 
 
 <!---
 AdhirajMishra/AdhirajMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
