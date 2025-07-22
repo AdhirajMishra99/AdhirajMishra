@@ -1,11 +1,18 @@
+## Connect with me
+<a href="https://www.linkedin.com/in/adhiraj-mishra-ab4b06302" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://twitter.com/static_adhiraj" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+
 - 👋 Hi, I’m @AdhirajMishra99
 - 👀 I’m BTech CSE student 
 - 🌱 I’m currently learning about tech
 - 🤞 Trying to gain the knowledge
-<img src="https://komarev.com/ghpvc/?username=Adhiraj-Mishra-99&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="AdhirajMishra99" />
-## 🌐 Socials:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adhiraj-mishra-ab4b06302/)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/static_adhiraj)
+ 
+<img src="https://komarev.com/ghpvc/?username=Adhiraj-Mishra-99&label=Profile%20views&color=0e75b6&style=flat&theme=github_dark" alt="AdhirajMishra99"/>
 
 
 <!---
